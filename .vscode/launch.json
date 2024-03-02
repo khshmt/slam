@@ -7,7 +7,7 @@
             "request": "launch",
             // Resolved by CMake Tools:
             "program": "${command:cmake.launchTargetPath}",
-            "args": ["/home/k-hshmt/cpp_dev/slam/slam/videos/kitti_984.mp4", "984"],
+            "args": ["~/cpp_dev/slam/slam/videos/kitti_984.mp4", "984"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [
